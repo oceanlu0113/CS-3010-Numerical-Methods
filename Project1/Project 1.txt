@@ -1,0 +1,9 @@
+Programing Project 1
+
+(A) Write a computer program to solve a linear system containing upto four equations at least using scaled partial pivoting.
+
+Solve the system of equations of Q. 13(a) and 13(c) , Exercise 2.2 with the program
+
+The output should contain,(1) Input data; (2)scale vector,index vector, pivot row no.,and multipliers at each step (3) Final Solution.
+
+(B) Write a computer program to solve a linear  system (upto four equations at least) by iteration procedure of Jacobi, Gauss-Seidel and SOR Methods.Solve the system of equations of Q.1b and Q 2 of Computer Exercise No. 8.4 with the program. The output should contain (1) Input data, (2)Successive iterates along with error check (3) Final Solution. The error bound may be taken as .000001.

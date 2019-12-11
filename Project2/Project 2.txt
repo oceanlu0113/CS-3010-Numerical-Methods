@@ -1,0 +1,9 @@
+Write a program to compute the root of the function f(x) = x3 + 2 x2 + 10 x - 20   by Bisection method (interval [1,2] ), False Position method, Newton method ( x0 =2 ) and Secant method ( x0 = 2  ,  x1 =1 ). Stop computation when the successive values differ by not more than 0.5 * 10-5 . Evaluate  f(x) and f '(x) using nested multiplication. The output should contain:
+
+(1) A table showing  at each step the value of the root , the value of the function,and the error based upon successive approximation values and percentage error for each method.
+
+(2) A plot showing the variation of percentage error with iteration number  for each method on the same graph so as to compare the method.
+
+UPLOAD THE PROJECT ON THE BLACK BOARD
+
+Submit a report (hard copy) summarizing the results and the comparison graph .
